@@ -1,0 +1,13 @@
+{
+  "name": "tcp-debug-assistant",
+  "version": "1.0.0",
+  "description": "TCP 调试助手 —— 基于浏览器的 TCP 客户端/服务端调试工具（零依赖）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
